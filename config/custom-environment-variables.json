@@ -1,0 +1,14 @@
+{
+  "jwtPrivateKey": "jwtPrivateKey",
+  "mongoURI": "mongoURI",
+  "pgURL": "pgURL",
+  "pgPort": "pgPort",
+  "pgDb": "pgDb",
+  "pgUser": "pgUser",
+  "pgPassword": "pgPassword",
+  "PORT": "PORT",
+  "s3Key": "s3Key",
+  "s3Secret": "s3Secret",
+  "s3Bucket": "s3Bucket",
+  "s3Region": "s3Region"
+}

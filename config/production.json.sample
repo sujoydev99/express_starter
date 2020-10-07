@@ -1,0 +1,11 @@
+{
+  "jwtPrivateKey": <jwt key>,
+  "mongoURI": <mongodb connection string>,
+  "pgURL": <postgres connection string>,
+  "PORT": <port to the server on>
+}
+// change the filename to production.json and hardcode the environment 
+// variables values to be used in production 
+// set NODE_ENV=production in default.js or in the environment to use these configurations
+
+// warning : hardcoded configurations will be overridden if the environment varialbles are set
